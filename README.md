@@ -42,25 +42,6 @@ I learn a lot things in this project special responsive the page and make my por
 ```clone
   git@github.com:humuyar/project-personal-portfolio-webpage.git
 ```
-
-## Usage 🎯
-
-```clone
-  cd project-personal-portfolio-webpage
-```
-```clone
-  code .
-```
-```clone
-  git add .
-```
-```clone
-  git commit -m "anything you want"
-```
-```clone
-  git push
-```
-
 ## Features ⭐
 - This website is a resposive website for personal portfolio web page about me. 
 
