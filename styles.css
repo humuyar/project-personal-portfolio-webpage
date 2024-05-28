@@ -1,3 +1,10 @@
+:root {
+  --main-white: #f0f0f0;
+  --main-red: #3d2744b8;
+  --main-blue: #8e4a69;
+  --main-gray: #3d2744be;
+}
+
 * {
   margin: 0;
   padding: 0;
@@ -86,8 +93,9 @@ img {
   align-items: center;
   width: 100%;
   height: 100vh;
-  background-color: #000;
-  background-image: linear-gradient(62deg, #3a3d40 0%, #181719 100%);
+  background-image: url(access/image4.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 footer > p {
