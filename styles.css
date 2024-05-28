@@ -182,3 +182,7 @@ img {
   padding: 0 2rem;
   background: var(--main-gray);
 }
+
+.contact-section-header > h2 {
+  font-size: 6rem;
+}
