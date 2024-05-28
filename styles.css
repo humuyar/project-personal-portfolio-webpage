@@ -90,6 +90,10 @@ img {
   background-image: linear-gradient(62deg, #3a3d40 0%, #181719 100%);
 }
 
+footer > p {
+  margin: 2rem;
+}
+
 .welcome-section > p {
   font-size: 3rem;
   font-weight: 200;
@@ -143,6 +147,10 @@ img {
 .project-title {
   font-size: 2rem;
   padding: 2rem 0.5rem;
+}
+
+footer i {
+  vertical-align: middle;
 }
 
 .btn {
@@ -217,12 +225,4 @@ footer {
   padding: 2rem;
   background: var(--main-gray);
   border-top: 4px solid var(--main-red);
-}
-
-footer > p {
-  margin: 2rem;
-}
-
-footer i {
-  vertical-align: middle;
 }
