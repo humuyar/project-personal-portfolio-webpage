@@ -234,3 +234,9 @@ footer {
   background: var(--main-gray);
   border-top: 4px solid var(--main-red);
 }
+
+@media (max-width: 75em) {
+  html {
+    font-size: 60%;
+  }
+}
